@@ -53,3 +53,7 @@ hero_media = "UVA_simple.jpg"
 
 **#1 ranked lab in the state of Virginia. Citation coming soon.**
 
+Additional details about the lab
+
+Etc.
+
