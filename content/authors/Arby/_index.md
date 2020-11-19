@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Charles Farber
+title: Arby Abood
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Associate Professor, Public Health Sciences
+role: PhD student, Public Health Sciences
 
 # Organizations/Affiliations
 organizations:
