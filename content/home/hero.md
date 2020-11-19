@@ -53,6 +53,3 @@ hero_media = "UVA_simple.jpg"
 
 **The Best Lab. Period.**
 
-#Build **Anything** with Widgets
-
-#<span style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" #data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
