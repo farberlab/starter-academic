@@ -66,7 +66,9 @@ highlight_name: false
 organizations: Center for Public Health Genomics
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Grad Students
+
+authors: Arby 
 ---
 
 Common diseases, such as osteoporosis, impart significant societal health burdens. These diseases are, in part, regulated by genetic determinants and understanding their genetic basis is critical to the development of effective therapeutics. In recent years, technological advances, such as sequencing the genomes of multiple species and the ability to perform bioassays in a massively parallel fashion, have made it possible to begin to understand disease in a systems context. Systems-biology attempts to determine the direct and interactive roles of all cellular and physiological components (transcripts, proteins, metabolites, etc.) in diseased and normal states using data from high-throughput genomic studies.
