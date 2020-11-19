@@ -14,7 +14,7 @@ organizations:
   url: "https://med.virginia.edu/cphg/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Geneticist and bone biologist.
 
 interests:
 - Bioinformatics and Genomics
@@ -63,6 +63,7 @@ email: ""
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
+organizations: Center for Public Health Genomics
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
