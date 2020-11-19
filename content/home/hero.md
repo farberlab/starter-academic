@@ -8,6 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Farber Lab @ UVA"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
+hero_media = "UVA_med.png"
 hero_media = "CPHG.png"
 
 [design.background]
