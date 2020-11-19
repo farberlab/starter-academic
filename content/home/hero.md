@@ -51,5 +51,5 @@ hero_media = "UVA_simple.jpg"
 #  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-**The Best Lab. Period.**
+**#1 ranked lab in the state of Virginia. Citation coming soon.**
 
