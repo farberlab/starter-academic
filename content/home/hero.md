@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Farber Lab @ UVA"
+title = "Farber Lab"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "UVA_simple.jpg"
@@ -36,19 +36,19 @@ hero_media = "UVA_simple.jpg"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://wowchemy.com/docs/install/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
+#[cta]
+#  url = "https://wowchemy.com/docs/install/"
+#  label = "Get Started"
+#  icon_pack = "fas"
+#  icon = "download"
   
-[cta_alt]
-  url = "https://wowchemy.com"
-  label = "View Documentation"
+#[cta_alt]
+#  url = "https://wowchemy.com"
+# label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
+#[cta_note]
+#  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
 **The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
