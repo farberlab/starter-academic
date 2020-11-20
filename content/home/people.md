@@ -1,4 +1,4 @@
-+++
+
 widget: people
 headless: true  # This file represents a page section.
 
@@ -21,4 +21,4 @@ design:
   show_interests: true
                
                
-+++
+
