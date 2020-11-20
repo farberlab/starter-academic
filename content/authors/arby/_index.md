@@ -3,10 +3,10 @@
 title: Arby Abood
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Associate Professor, Public Health Sciences
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -65,6 +65,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #organizations: Center for Public Health Genomics
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ['Graduate Students']
+user_groups: "Graduate Students"
 authors: arby
 ---
