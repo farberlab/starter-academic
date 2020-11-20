@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "People"
-subtitle = ""
+subtitle = "Lab Members"
 
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
