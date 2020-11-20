@@ -3,35 +3,35 @@
 title: Arby Abood
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Graduate Student
 
 # Organizations/Affiliations
-organizations:
-- name: University of Virginia Center for Public Health Genomics
-  url: "https://med.virginia.edu/cphg/"
+#organizations:
+#- name: University of Virginia Center for Public Health Genomics
+#  url: "https://med.virginia.edu/cphg/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Geneticist and bone biologist.
+#bio: Geneticist and bone biologist.
 
-interests:
-- Bioinformatics and Genomics
-- Computational Biology
-- Genetics
-- Metabolism
-- Molecular Biology
-- Single cell RNA-seq and ATAC-seq
+#interests:
+#- Bioinformatics and Genomics
+#- Computational Biology
+#- Genetics
+#- Metabolism
+#- Molecular Biology
+#- Single cell RNA-seq and ATAC-seq
 
-education:
-  courses:
-  - course: PhD in Genetics
-    institution: University of California, Davis
-  - course: MS Genetics
-    institution: Michigan State University
-  - course: BSc Biochemistry
-    institution: Western Kentucky 
+#education:
+#  courses:
+#  - course: PhD in Genetics
+#    institution: University of California, Davis
+#  - course: MS Genetics
+#    institution: Michigan State University
+#  - course: BSc Biochemistry
+#    institution: Western Kentucky 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,15 +57,14 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+#email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #organizations: Center for Public Health Genomics
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: Graduate Students
-authors: 
-- arby
+user_groups: ["Graduate Students"]
+authors: ["arby"]
 ---
