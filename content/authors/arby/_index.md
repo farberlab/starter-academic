@@ -14,22 +14,21 @@ role: Graduate Student
 #  url: "https://med.virginia.edu/cphg/"
 
 # Short bio (displayed in user profile at end of posts)
-#bio: Geneticist and bone biologist.
+bio: Geneticist and bone biologist.
 
-#interests:
-#- Bioinformatics and Genomics
-#- Computational Biology
-#- Genetics
-#- Metabolism
-#- Molecular Biology
-#- Single cell RNA-seq and ATAC-seq
+interests:
+- Bioinformatics and Genomics
+- Computational Biology
+- Genetics
+- Metabolism
+- Molecular Biology
 
-#education:
-#  courses:
-#  - course: PhD in Genetics
-#    institution: University of California, Davis
-#  - course: MS Genetics
-#    institution: Michigan State University
+education:
+  courses:
+  - course: PhD in Genetics
+    institution: University of Virginia
+  - course: MS Genetics
+    institution: University of Clemson
 #  - course: BSc Biochemistry
 #    institution: Western Kentucky 
 
@@ -40,16 +39,19 @@ role: Graduate Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:aa9aj@virginia.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/cr_farber
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=rpTySQgAAAAJ&hl=en&oi=ao
+  link: https://twitter.com/arbywho
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=rpTySQgAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/Farber-Lab
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/abdullah-arby-abood-7964238b/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,5 +68,5 @@ highlight_name: true
 #organizations: Center for Public Health Genomics
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: ["Grad Students"]
-authors: ["arby"]
+
 ---
