@@ -66,4 +66,5 @@ highlight_name: false
 #organizations: Center for Public Health Genomics
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: ['Graduate Students']
+authors: arby
 ---
