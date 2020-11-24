@@ -21,8 +21,8 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-     name = "Making Sense of GWAS"
+   [[content.filter_button]]
+     name = "GWAS"
      tag = "*GWAS"
   
   # [[content.filter_button]]
