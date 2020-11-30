@@ -1,6 +1,6 @@
 ---
 title: GWAS
-summary: An example of using the in-built project page.
+summary: GWAS have identified dozens of loci for bone mineral density (BMD). The next step is to use these data to identify the genetic variants and genes responsible for the genetic effects.
 tags:
 - GWAS
 date: "2016-04-27T00:00:00Z"
@@ -9,14 +9,14 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: 
 url_code: ""
 url_pdf: ""
 url_slides: ""
