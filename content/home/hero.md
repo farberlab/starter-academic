@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Farber Lab"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "UVA_simple.jpg"
+hero_media = "DNA.gif"
 
 [design.background]
   # Apply a background color, gradient, or image.
