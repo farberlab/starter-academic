@@ -50,9 +50,9 @@ hero_media = "UVA_simple.jpg"
 #[cta_note]
 #  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 
-[advanced]
+#[advanced]
  # Custom CSS. 
- css_style = "<iframe src="https://giphy.com/embed/3o7TKz2eMXx7dn95FS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nasa-space-dna-3o7TKz2eMXx7dn95FS">via GIPHY</a></p>"
+# css_style = "<iframe src="https://giphy.com/embed/3o7TKz2eMXx7dn95FS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a #href="https://giphy.com/gifs/nasa-space-dna-3o7TKz2eMXx7dn95FS">via GIPHY</a></p>"
 
 +++
 
