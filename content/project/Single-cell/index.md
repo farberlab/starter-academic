@@ -2,7 +2,7 @@
 title: Single Cell
 summary: Skeletal development and maintenance is controlled by numerous cell-types. Historically, genomic studies of bone cells have been challenging due to difficulties in isolating homogenous cell-types from marrow or bone. Recently, this has begun to change with the emergence of single cell technologies
 tags:
-- Single_cell
+- single-cell
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
