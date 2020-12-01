@@ -58,8 +58,7 @@ title = "Farber Lab"
 
 **#1 ranked lab in the state of Virginia. Citation coming soon.**
 
-The Farber Lab (formentioned #1 lab) uses innovative systems genetics and genomics approaches to study complex bone phenotypes related to physiology and disease.  We are interested in understanding how genetic variation influences cellular networks and how network changes alter physiology and disease.  Ultimately, we hope to define and mechanistically understand the genetic determinants of bone strength and improve the clinical approach to osteoporosis and other bone diseases.
-
+The Farber Lab (formentioned #1 lab) uses innovative systems genetics and genomics approaches to study complex bone phenotypes related to physiology and disease.  
 PI: Dr. Charles Farber
 Lab Members: Dr. Larry Mesner, Gina Calabrese, Basel Al-Barghouthi, Dr. Atum Buo, Abdullah "Arby" Abood, Will Rosenow
 
