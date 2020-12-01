@@ -14,7 +14,7 @@ role: PhD Student
 #  url: "https://med.virginia.edu/cphg/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Geneticist and bone biologist.
+bio: Arby Abood is a PhD candidate at the University of Virginia School of Medicine. Arby uses systems genetics approaches to elucidate the genetic of osteoporosis.
 
 interests:
 - Systems Genetics
