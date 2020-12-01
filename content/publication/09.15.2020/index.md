@@ -27,7 +27,6 @@ abstract = "The omnigenic model of the genetic architecture of complex traits pr
 #abstract_short = "Our network-based approach identifies a "core" module for BMD and provides a resource for expanding our understanding of the genetics of bone #mass."
 
 # Featured image thumbnail (optional)
-preview_only = true
 image_preview = "featured.png"
 
 # Is this a selected publication? (true/false)
@@ -66,6 +65,5 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "featured.png"
-caption = "My caption 😄"
 
 +++
