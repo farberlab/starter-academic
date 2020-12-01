@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Arby Abood
+title: Abdullah "Arby" Abood
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: PhD Student
 
 # Organizations/Affiliations
 #organizations:
@@ -17,20 +17,18 @@ role: Graduate Student
 bio: Geneticist and bone biologist.
 
 interests:
-- Bioinformatics and Genomics
+- Systems Genetics
 - Computational Biology
-- Genetics
-- Metabolism
-- Molecular Biology
+- Genetic Epidemiology
 
 education:
   courses:
-  - course: PhD in Genetics
+  - course: PhD in Molecular Genetics, 2023
     institution: University of Virginia
-  - course: MS Genetics
-    institution: University of Clemson
-#  - course: BSc Biochemistry
-#    institution: Western Kentucky 
+  - course: MSc in Micorbiology, 2018
+    institution: Clemson University
+  - course: BSc in Biology
+    institution: George Mason University
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
