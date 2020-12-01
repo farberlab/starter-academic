@@ -6,7 +6,7 @@ title: Abdullah "Arby" Abood
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD candidate
 
 # Organizations/Affiliations
 #organizations:
