@@ -14,7 +14,7 @@ role: PhD Student
 #  url: "https://med.virginia.edu/cphg/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Arby Abood is a PhD candidate at the University of Virginia School of Medicine. Arby uses systems genetics approaches to elucidate the genetic of osteoporosis.
+bio: Computational biologist and data scientist in training with focus on precision medicine.
 
 interests:
 - Systems Genetics
@@ -68,3 +68,5 @@ highlight_name: true
 user_groups: ["Grad Students"]
 
 ---
+
+Arby Abood is a PhD candidate at the University of Virginia School of Medicine. Arby uses systems genetics approaches to elucidate the genetic of osteoporosis.
