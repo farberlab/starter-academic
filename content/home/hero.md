@@ -60,7 +60,3 @@ title = "Farber Lab"
 
 The Farber Lab (forementioned #1 lab) uses innovative systems genetics and genomics approaches to study complex bone phenotypes related to physiology and disease.  
 
-PI: Dr. Charles Farber
-
-Lab Members: Dr. Larry Mesner, Gina Calabrese, Basel Al-Barghouthi, Dr. Atum Buo, Abdullah "Arby" Abood, Will Rosenow
-
