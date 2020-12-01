@@ -13,7 +13,7 @@ headless: true
 weight: 20
 
 title: Research Focus
-
+Arby Abood is a PhD candidate at the University of Virginia School of Medicine. Arby uses systems genetics approaches to elucidate the genetic of osteoporosis.
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
