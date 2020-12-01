@@ -69,4 +69,4 @@ user_groups: ["Grad Students"]
 
 ---
 
-Arby Abood is a PhD candidate at the University of Virginia School of Medicine. Arby uses systems genetics approaches to elucidate the genetic of osteoporosis.
+Arby Abood is a PhD candidate at the University of Virginia School of Medicine. Arby uses systems genetics approaches to elucidate the genetics of osteoporosis.
