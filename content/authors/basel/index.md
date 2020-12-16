@@ -1,6 +1,6 @@
 ---
 authors:
-- admin
+- basel
 bio: My research interests include systems genetics, genomics and bioinformatics.
 education:
   courses:
