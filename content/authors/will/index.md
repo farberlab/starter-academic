@@ -72,4 +72,4 @@ user_groups: ["Staff"]
 
 ---
 
-I am a biostatistician at the University of Virginia School of Medicine. 
+I am a biostatistician at the University of Virginia Center for Public Health Genomics. My research leverages system genetics approaches to elucidate the gentics of bone strength. As a computational researcher, I conduct analyses for bulk RNA-seq, single cell ATAC-seq and RNA-seq, and transcriptome wide association studies.  
