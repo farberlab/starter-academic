@@ -1,11 +1,11 @@
 +++
-title = "Sexually Dimorphic Crosstalk at the Maternal-Fetal Interface"
+title = "Exercise during pregnancy mitigates negative effects of parental obesity on metabolic function in adult mouse offspring"
 
 # Date first published.
-date = "2020-08-09"
+date = "2021-12-17"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Tianyanxin Sun", "Tania L Gonzalez", "Nan Deng", "Rosemarie DiPentino", "Ekaterina L Clark", "Bora Lee", "Jie Tang", "Yizhou Wang", "Barry R Stripp", "Changfu Yao", "Hsian-Rong Tseng", "S Ananth Karumanchi", "Alexander F Koeppel", "Stephen D Turner", "Charles R Farber", "Stephen S Rich", "Erica T Wang", "John Williams", "Margareta D Pisarska"]
+authors = ["Rhianna Che C Laker", "Ali Altıntaş", "Travis S Lillard", "Mei Zhang", "Jessica J Connelly", "Olivia L Sabik", "Suna Onengut", "Stephen S Rich", "Charles R Farber", "Romain Barrès", "Zhen Yan"]
 
 # Publication type.
 # Legend:
@@ -20,10 +20,10 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 #publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *JCEM*"
+publication_short = "In *J Appl Physiol*"
 
 # Abstract and optional shortened version.
-abstract = "We identified 91 sexually dimorphic receptor-ligand pairs across the maternal-fetal interface. We examined fetal sex differences in 5 major cell types (trophoblasts, stromal cells, Hofbauer cells, antigen-presenting cells, and endothelial cells). Ligands from the CC family chemokine ligand (CCL) family were most highly representative in females, with their receptors present on the maternal surface. Sexually dimorphic trophoblast transcripts, Mucin-15 (MUC15) and notum, palmitoleoyl-protein carboxylesterase (NOTUM) were also most highly expressed in syncytiotrophoblasts and extra-villous trophoblasts respectively. Gene Ontology (GO) analysis using sexually dimorphic genes in individual cell types identified cytokine mediated signaling pathways to be most representative in female trophoblasts. Upstream analysis demonstrated TGFB1 and estradiol to affect all cell types, but dihydrotestosterone, produced by the male fetus, was an upstream regulator most significant for the trophoblast population."
+abstract = "Parental health influences embryonic development and susceptibility to disease in the offspring. We investigated whether maternal voluntary running during gestation could protect the offspring from the adverse effects of maternal or paternal high-fat diet (HF) in mice. We performed transcriptomic and whole-genome DNA methylation analyses in female offspring skeletal muscle as well as targeted DNA methylation analysis of the peroxisome proliferator-activated receptor γ coactivator-1α (Pgc-1α) promoter in the both male and female adult offspring. Maternal HF resulted in impaired metabolic homeostasis in male offspring at 9 months of age, while both male and female offspring were negatively impacted by paternal HF. Maternal exercise during gestation completely mitigated these metabolic impairments. Female adult offspring from obese male or female parent had skeletal muscle transcriptional profiles enriched in genes regulating inflammation and immune responses, whereas maternal exercise resulted in a transcriptional profile similar to offspring from normal chow fed parents. Maternal HF, but not paternal HF, resulted in hypermethylation of the Pgc-1α promoter at CpG -260, which was abolished by maternal exercise. These findings demonstrate the negative consequences of maternal and paternal HF for the offspring's metabolic outcomes later in life possibly through different epigenetic mechanisms, and maternal exercise during gestation mitigates the negative consequences."
 #abstract_short = "Our network-based approach identifies a "core" module for BMD and provides a resource for expanding our understanding of the genetics of bone #mass."
 
 # Featured image thumbnail (optional)
@@ -36,7 +36,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+projects = ["All"]
 
 # Links (optional).
 #url_pdf = "pdf/my-paper-name.pdf"
@@ -47,7 +47,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://pubmed.ncbi.nlm.nih.gov/32772088/"
+url_source = "hhttps://pubmed.ncbi.nlm.nih.gov/33332990/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
