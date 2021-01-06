@@ -72,4 +72,4 @@ user_groups: ["Staff"]
 
 ---
 
-Will is a biostatistician at the University of Virginia School of Medicine. His work primarily focuses on GWAS and single cell analyses
+I am a biostatistician at the University of Virginia School of Medicine. 
