@@ -47,9 +47,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/willrosenow
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=bN1CqSQAAAAJ&hl=en
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=GoCMIPkAAAAJ&hl=en&oi=ao
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/in/abdullah-arby-abood-7964238b/
