@@ -70,6 +70,4 @@ user_groups: []
 
 ---
 
-I have spent over 25 years studying varying aspects of DNA replication and genome instability, 
-from in vitro studies of polymerase elongation complexes to the development of methods for whole-genome studies in mammalian systems. 
-In the last 7 years I have been working on developing a pipeline for verifying candidate genes from GWAS studies using mouse models coupled with human and mouse cell model systems. 
+I have spent over 25 years studying varying aspects of DNA replication and genome instability, from in vitro studies of polymerase elongation complexes to the development of methods for whole-genome studies in mammalian systems. In the last 7 years I have been working on developing a pipeline for verifying candidate genes from GWAS studies using mouse models coupled with human and mouse cell model systems. 
