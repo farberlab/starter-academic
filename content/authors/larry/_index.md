@@ -9,6 +9,7 @@ superuser: true
 role: Assistant Professor
 
 # Organizations/Affiliations
+organizations:
 - name: University of Virginia Center for Public Health Genomics
   url: "https://med.virginia.edu/cphg/"
 
