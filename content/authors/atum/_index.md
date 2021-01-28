@@ -9,9 +9,9 @@ superuser: true
 role: Postdoctoral Fellow
 
 # Organizations/Affiliations
-#organizations:
-#- name: University of Virginia Center for Public Health Genomics
-#  url: "https://med.virginia.edu/cphg/"
+organizations:
+- name: University of Virginia Center for Public Health Genomics
+  url: "https://med.virginia.edu/cphg/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Postdoctoral fellow in the Center for Public Health Genomics
